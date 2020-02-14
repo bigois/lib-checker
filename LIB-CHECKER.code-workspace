@@ -11,10 +11,11 @@
 			"**.vscode": true,
 			"**LICENSE": true,
 			"**md": true,
+			"**gitignore": true,
 			"**.code-workspace": true,
 			"totvsLanguageServer.welcomePage": false,
 			"[advpl]": {
-				"files.encoding": "windows1252"
+				"files.encoding": "windows1252",
 			},
 			"totvsLanguageServer.askEncodingChange": false,
 			"totvsLanguageServer.askCompileResult": true,
