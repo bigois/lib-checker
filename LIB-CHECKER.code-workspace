@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "LIB-CHECKER"
+		}
+	],
+	"settings": {
+		"editor.mouseWheelZoom": true,
+		"files.exclude": {
+			"**.vscode": true,
+			"**LICENSE": true,
+			"**md": true,
+			"**.code-workspace": true,
+			"totvsLanguageServer.welcomePage": false,
+			"[advpl]": {
+				"files.encoding": "windows1252"
+			},
+			"totvsLanguageServer.askEncodingChange": false,
+			"totvsLanguageServer.askCompileResult": true,
+			"totvsLanguageServer.editor.toggle.autocomplete": "Basic"
+		}
+	}
+}
